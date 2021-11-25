@@ -3,7 +3,7 @@
 <h4>🔭 I’m currently not working on GitHub, but I think in some Time it will be Change</h4>
 <h3 align="left">Stats:</h3>
   <p align="center">
-  
+  [![Basti's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=longhornhdtv)]
   ![Basti's Github Stats](https://github-readme-stats.vercel.app/api?username=longhornhdtv&count_private=true&show_icons=true&theme=radical)
   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=longhornhdtv&theme=radical&count_private=true)
   </p>
