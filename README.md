@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi there I'm basti - aka LonghornHDTV 👋</h1>
 <h3 align="center">I'm doing an education as software developer</h3>
-<h2>🔭 I’m currently not working on GitHub, but I think in some Time it will be Change</h2>
+<h4>🔭 I’m currently not working on GitHub, but I think in some Time it will be Change</h4>
 <h3 align="left">Stats:</h3>
   <p align="center">
   
