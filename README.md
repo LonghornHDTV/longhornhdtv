@@ -1,14 +1,12 @@
 <h1 align="center">Hi there I'm basti - aka LonghornHDTV 👋</h1>
 <h3 align="center">I'm doing an education as software developer</h3>
 <h4>🔭 I’m currently not working on GitHub, but I think in some Time it will be Change</h4>
-<h3 align="left">Stats:</h3>
-  <p align="center">
-  ![Basti's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LonghornHDTV)
-  
-  ![Basti's Github Stats](https://github-readme-stats.vercel.app/api?username=longhornhdtv&count_private=true&show_icons=true&theme=radical)
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=longhornhdtv&theme=radical&count_private=true)
-  </p>
-  
+<h3>Stats:</h3>
+
+![Basti's Github Stats](https://github-readme-stats.vercel.app/api?username=longhornhdtv&count_private=true&show_icons=true&theme=aura)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=longhornhdtv&count_private=true&show_icons=true&theme=aura)
+![Basti's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=longhornhdtv&show_icons=true&theme=aura)
+
 <!--
 **LonghornHDTV/longhornhdtv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
