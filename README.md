@@ -1,5 +1,5 @@
-<h1 align="center">Hi there I'm basti - aka LonghornHDTV 👋</h1>
-<h3 align="center">I'm doing an education as software developer</h3>
+<h1 align="center">Hi there I'm Basti 👋</h1>
+<h3 align="center">I'm a software developer</h3>
 <h4>🔭 I’m currently not working on GitHub, but I think in some Time it will be Change</h4>
 <h3>Stats:</h3>
 
