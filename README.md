@@ -1,6 +1,6 @@
 <h1 align="center">Hi there I'm Basti 👋</h1>
 <h3 align="center">I'm a software developer</h3>
-<h4>🔭 I’m currently not working on GitHub, but I think in some Time it will be Change</h4>
+<h4>🔭 I’m currently not working on GitHub, but I think in some future it will be Changed</h4>
 <h3>Stats:</h3>
 
 ![Basti's Github Stats](https://github-readme-stats.vercel.app/api?username=longhornhdtv&count_private=true&show_icons=true&theme=aura)
