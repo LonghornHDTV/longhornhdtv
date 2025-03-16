@@ -4,7 +4,7 @@
 <h3>Stats:</h3>
 
 ![Basti's Github Stats](https://github-readme-stats.vercel.app/api?username=longhornhdtv&count_private=true&show_icons=true&theme=aura)
-![Basti's gitlab stats](https://gitlab-readme-stats-bastis-projects-86b00d8d.vercel.app/api?username=basti_coder&show_icons=true&theme=aura)
+![Basti's gitlab stats](https://gitlab-readme-stats-bastis-projects-86b00d8d.vercel.app/api?username=basti_coder&show_icons=true&theme=dark)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=longhornhdtv&count_private=true&show_icons=true&theme=aura)
 ![Basti's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=longhornhdtv&show_icons=true&theme=aura)
 
